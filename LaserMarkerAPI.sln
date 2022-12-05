@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1684
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaserMarkerAPI", "LaserMarkerAPI\LaserMarkerAPI.csproj", "{511A20E9-DDAB-4F97-B65D-2C2786BAA449}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{511A20E9-DDAB-4F97-B65D-2C2786BAA449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{511A20E9-DDAB-4F97-B65D-2C2786BAA449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{511A20E9-DDAB-4F97-B65D-2C2786BAA449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{511A20E9-DDAB-4F97-B65D-2C2786BAA449}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {873932B6-58AC-4740-9333-B39E3767DEE9}
+	EndGlobalSection
+EndGlobal
